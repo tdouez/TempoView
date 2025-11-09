@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C3",C_Disc_D4.3mm_W1.9mm_P5.00mm,2,100nF,
+C2,CP_Radial_D4.0mm_P2.00mm,1,10uF,
+C4,CP_Radial_D4.0mm_P2.00mm,1,22uF,
+J1,PinHeader_1x01_P2.54mm_Vertical,1,Conn_01x01,
+U1,HOPERF_RFM9XW_THT,1,RFM95W-868S2,
+U2,T-Display-S3,1,T-Display-S3,
