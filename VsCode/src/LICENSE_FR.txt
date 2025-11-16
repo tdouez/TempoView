@@ -1,0 +1,26 @@
+Copyright (c) 2025 - FBS - Tristan DOUEZ
+
+L'autorisation est accordée, gratuitement, à toute personne obtenant une copie
+de ce logiciel et des fichiers de documentation associés (le "Logiciel"),
+d'utiliser, copier, modifier et redistribuer le Logiciel uniquement pour des
+usages non commerciaux, sous réserve des conditions suivantes :
+
+1. Attribution :
+   Toute utilisation, copie, modification ou redistribution du Logiciel doit
+   inclure une attribution explicite à l'auteur original : "Tristan".
+
+2. Redistribution :
+   Toute redistribution du Logiciel ou de dérivés doit conserver ce texte de
+   licence, incluant l'obligation d'attribution et la clause non commerciale.
+
+3. Usage non commercial :
+   Toute utilisation commerciale du Logiciel ou de ses dérivés est strictement
+   interdite sans autorisation écrite préalable de l'auteur.
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS AUCUNE GARANTIE, EXPRESSE OU IMPLICITE,
+Y COMPRIS MAIS SANS S'Y LIMITER LES GARANTIES DE QUALITÉ MARCHANDE,
+D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS,
+LES AUTEURS OU TITULAIRES DU COPYRIGHT NE POURRONT ÊTRE TENUS RESPONSABLES DE
+TOUT DOMMAGE, RÉCLAMATION OU AUTRE RESPONSABILITÉ, QU'IL S'AGISSE D'UNE ACTION
+CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DU LOGICIEL OU DE L'UTILISATION
+OU D'AUTRES INTERACTIONS AVEC LE LOGICIEL.
