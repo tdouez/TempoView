@@ -380,7 +380,8 @@ void setup()
 	  lv_obj_set_style_text_color(ui_conso, color_red, LV_PART_MAIN); 
     lv_label_set_text(ui_conso, "<< LoRa init KO ! >>");
     lv_handler(); 
-    delay(2000);
+    delay(1000);
+    while (1);
   }
   
   preferences.begin("fbs", false);
@@ -409,10 +410,13 @@ void setup()
     else {
       flag_associated=true;
 	    lv_obj_set_style_text_color(ui_conso, color_black, LV_PART_MAIN); 
-	    lv_label_set_text(ui_conso, String(cpt_id).c_str()); 
+	    lv_label_set_text(ui_conso, (String("Cpt:") + String(cpt_id)).c_str()); 
       lv_handler(); 
       Serial.print(F("OK : "));
       Serial.println(cpt_id);
+      delay(2000);
+      lv_label_set_text(ui_conso, ""); 
+      lv_handler();
     }
   }
   preferences.end();
